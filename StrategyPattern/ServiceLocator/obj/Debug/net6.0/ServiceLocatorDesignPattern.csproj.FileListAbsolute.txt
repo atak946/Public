@@ -33,7 +33,6 @@ C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\b
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ServiceLocatorDesignPattern.csproj.AssemblyReference.cache
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ServiceLocatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ServiceLocatorDesignPattern.AssemblyInfoInputs.cache
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ServiceLocatorDesignPattern.AssemblyInfo.cs

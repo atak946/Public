@@ -7,7 +7,6 @@ C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.dll
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\bin\Debug\net6.0\ref\StrategyPattern.dll
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
-C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.AssemblyReference.cache
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
