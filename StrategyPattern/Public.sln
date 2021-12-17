@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "Strategy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLocatorDesignPattern", "ServiceLocator\ServiceLocatorDesignPattern.csproj", "{D2A40414-72A5-4167-AED0-ECA361C53987}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design Pattern", "Design Pattern", "{6AE4C871-FDE4-4577-AE44-EEEEDB400DE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB7B9FB2-4691-4D84-8006-B584B71B3FD9} = {6AE4C871-FDE4-4577-AE44-EEEEDB400DE3}
+		{D2A40414-72A5-4167-AED0-ECA361C53987} = {6AE4C871-FDE4-4577-AE44-EEEEDB400DE3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C6B86EC-B8EF-4CCB-9230-9CC134EE93A5}
