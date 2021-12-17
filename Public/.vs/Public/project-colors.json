@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab7b9fb2-4691-4d84-8006-b584b71b3fd9": {
+      "ProjectGuid": "ab7b9fb2-4691-4d84-8006-b584b71b3fd9",
+      "DisplayName": "StrategyPattern",
+      "ColorIndex": 0
+    },
+    "d2a40414-72a5-4167-aed0-eca361c53987": {
+      "ProjectGuid": "d2a40414-72a5-4167-aed0-eca361c53987",
+      "DisplayName": "ServiceLocatorDesignPattern",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

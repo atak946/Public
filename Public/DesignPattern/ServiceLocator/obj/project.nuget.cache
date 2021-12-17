@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "szNqCM0hRrddfp4O5sgVL+3/RqYC38rwN4bBhz7NuXJx1VHAmEnjm7lDMSlahgYjd+vWZaZ8rQjBHNj2wfrgFQ==",
+  "dgSpecHash": "MKSalHVoyfwUktoM73Izwo0BqWNnQmR06OGduRg0np/aSghhqYJA37gFH81CsyBzHigtkw9ub1ZKmJDq3GX93Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\StrategyPattern\\ServiceLocator\\ServiceLocatorDesignPattern.csproj",
+  "projectFilePath": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\Public\\DesignPattern\\ServiceLocator\\ServiceLocatorDesignPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muratatak.ALINIYOR\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\muratatak.ALINIYOR\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.10\\microsoft.extensions.objectpool.5.0.10.nupkg.sha512",

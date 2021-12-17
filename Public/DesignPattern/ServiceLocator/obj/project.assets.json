@@ -957,11 +957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\StrategyPattern\\ServiceLocator\\ServiceLocatorDesignPattern.csproj",
+      "projectUniqueName": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\Public\\DesignPattern\\ServiceLocator\\ServiceLocatorDesignPattern.csproj",
       "projectName": "ServiceLocatorDesignPattern",
-      "projectPath": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\StrategyPattern\\ServiceLocator\\ServiceLocatorDesignPattern.csproj",
+      "projectPath": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\Public\\DesignPattern\\ServiceLocator\\ServiceLocatorDesignPattern.csproj",
       "packagesPath": "C:\\Users\\muratatak.ALINIYOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\StrategyPattern\\ServiceLocator\\obj\\",
+      "outputPath": "C:\\Users\\muratatak.ALINIYOR\\source\\repos\\Public\\Public\\DesignPattern\\ServiceLocator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
