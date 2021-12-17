@@ -42,3 +42,4 @@ C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\o
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ref\ServiceLocatorDesignPattern.dll
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ServiceLocatorDesignPattern.pdb
 C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ServiceLocatorDesignPattern.genruntimeconfig.cache
+C:\Users\muratatak.ALINIYOR\source\repos\Public\StrategyPattern\ServiceLocator\obj\Debug\net6.0\ServiceLocatorDesignPattern.csproj.AssemblyReference.cache
