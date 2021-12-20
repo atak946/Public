@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31815.197
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern", "DesignPattern\StrategyPattern\StrategyPattern.csproj", "{AB7B9FB2-4691-4D84-8006-B584B71B3FD9}"
 EndProject
@@ -13,11 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroService", "MicroServic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{56769F51-C5C7-44D8-8435-7BC44C20C706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket", "MicroService\Services\Basket\Basket.csproj", "{DF1B6F4C-6847-4829-813E-8954E4A3077D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket", "MicroService\Services\Basket\Basket.csproj", "{DF1B6F4C-6847-4829-813E-8954E4A3077D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{8A950854-0DBB-43B5-8D52-24DFBAC2AC3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Shared", "MicroService\Shared\MicroService.Shared\MicroService.Shared.csproj", "{37E94BFD-0670-4467-9CD9-3D90F23E74D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroService.Shared", "MicroService\Shared\MicroService.Shared\MicroService.Shared.csproj", "{37E94BFD-0670-4467-9CD9-3D90F23E74D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDrivenArchitecture", "DesignPattern\EventDrivenArchitecture\EventDrivenArchitecture.csproj", "{7B3D9C43-A4AA-42D1-AED1-68907AFCFAE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{37E94BFD-0670-4467-9CD9-3D90F23E74D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E94BFD-0670-4467-9CD9-3D90F23E74D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E94BFD-0670-4467-9CD9-3D90F23E74D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3D9C43-A4AA-42D1-AED1-68907AFCFAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3D9C43-A4AA-42D1-AED1-68907AFCFAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3D9C43-A4AA-42D1-AED1-68907AFCFAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3D9C43-A4AA-42D1-AED1-68907AFCFAE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{DF1B6F4C-6847-4829-813E-8954E4A3077D} = {56769F51-C5C7-44D8-8435-7BC44C20C706}
 		{8A950854-0DBB-43B5-8D52-24DFBAC2AC3B} = {38E94287-5F41-45E3-9B38-E9075D5C7A10}
 		{37E94BFD-0670-4467-9CD9-3D90F23E74D1} = {8A950854-0DBB-43B5-8D52-24DFBAC2AC3B}
+		{7B3D9C43-A4AA-42D1-AED1-68907AFCFAE2} = {6AE4C871-FDE4-4577-AE44-EEEEDB400DE3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C6B86EC-B8EF-4CCB-9230-9CC134EE93A5}
