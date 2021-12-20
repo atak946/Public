@@ -1,0 +1,11 @@
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\bin\Debug\net6.0\MicroService.Shared.deps.json
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\bin\Debug\net6.0\MicroService.Shared.dll
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\bin\Debug\net6.0\ref\MicroService.Shared.dll
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\bin\Debug\net6.0\MicroService.Shared.pdb
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\obj\Debug\net6.0\MicroService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\obj\Debug\net6.0\MicroService.Shared.AssemblyInfoInputs.cache
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\obj\Debug\net6.0\MicroService.Shared.AssemblyInfo.cs
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\obj\Debug\net6.0\MicroService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\obj\Debug\net6.0\MicroService.Shared.dll
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\obj\Debug\net6.0\ref\MicroService.Shared.dll
+C:\Users\muratatak.ALINIYOR\source\repos\Public\Public\MicroService\Shared\MicroService.Shared\obj\Debug\net6.0\MicroService.Shared.pdb
